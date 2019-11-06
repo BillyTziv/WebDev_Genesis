@@ -16,6 +16,6 @@
     <script src="js/app.js"></script> 
 </head>
 <body>
-    <h1>IF you see the blue image and this message HTLM and CSS is working just fine.</h1>
+    <h1>IF you see the blue image and this message HTLM and CSS is working just fine. Hello there</h1>
 </body>
 </html>
